@@ -5,10 +5,10 @@
 Using DHT11 temperature and humidity sensor to measure the temperature and humidity with Arduino. 
 
 ## Components required  
-*DHT11 sensor module 
-*Arduino UNO 
-*Jumper wires 
-*Bread board 
+* DHT11 sensor module 
+* Arduino UNO 
+* Jumper wires 
+* Bread board 
 
 ## Connections 
 Arduino UNO |  DTH11 
@@ -24,11 +24,11 @@ D4     |    DATA
 ## Adding DHT11 library 
 Download the DHT library from https://github.com/adafruit/DHT-sensor-library.git 
 Open Arduino IDE and go to 
-Sketch > Include Library > Add .ZIP Library... 
+'Sketch > Include Library > Add .ZIP Library... '
 Choose the downloaded file DHT-sensor-library.zip click on OK. 
 
 ## Programming Arduino 
 open the DHT.ino in Arduino IDE.
-go to tools > Board Select Arduino UNO.
+go to 'tools > Board Select Arduino UNO'
 Select the Port (ex: COM5).
 Verify the code and upload the code.
