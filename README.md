@@ -14,9 +14,7 @@ Using DHT11 temperature and humidity sensor to measure the temperature and humid
 Arduino UNO |  DTH11 
 -----------|------------- 
 5V     |    Vcc 
-
 GND    |    GND 
-
 D4     |    Signal 
 ![DHT11 Arduino connections.png](https://github.com/akashsjjan/DHT11-Temparature-and-Humidity-sensor-Arduino/blob/main/DHT11%20Arduino%20connections.png)
 
