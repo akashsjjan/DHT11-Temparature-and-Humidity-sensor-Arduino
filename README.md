@@ -13,7 +13,6 @@ Using DHT11 temperature and humidity sensor to measure the temperature and humid
 ## Connections 
 Arduino UNO |  DTH11 
 -----------|------------- 
-
 5V     |    Vcc 
 
 GND    |    GND 
