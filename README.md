@@ -2,7 +2,7 @@
 
 
 ## DISCRIPTION 
-Using DHT11 temperature and humidity sensor to measure the temperature and humidity with Arduino. 
+Using DHT11 temparature and humidity sensor to measure the temperature and humidity with Arduino. 
 
 ## Components required  
 * DHT11 sensor module 
